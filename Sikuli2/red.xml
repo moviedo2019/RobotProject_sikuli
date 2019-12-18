@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<projectConfiguration>
+    <configVersion>2</configVersion>
+    <relativeTo>WORKSPACE</relativeTo>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary" path="C:/Program Files (x86)/Python/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SikuliLibrary" path="C:/Program Files (x86)/Python/Lib/site-packages/SikuliLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="app" path="C:/Program Files (x86)/Python/Lib/site-packages/app.py" dynamic="false"/>
+    <pythonpath>
+        <path location="C:\Program Files (x86)\Python\Lib\site-packages"/>
+    </pythonpath>
+    <classpath/>
+    <excludedForValidation/>
+    <isValidatedFileSizeCheckingEnabled>true</isValidatedFileSizeCheckingEnabled>
+    <validatedFileMaxSize>1024</validatedFileMaxSize>
+</projectConfiguration>
