@@ -13,9 +13,6 @@ Calculadora
     Add Image Path    ${path}
     Wait Until Screen Contain    siete    10
     Click    siete
-    Wait Until Screen Contain    lupa    10
-    Click    lupa    
-    SikuliLibrary.Input Text    type    word
     Stop Remote Server
     
 Buscador
