@@ -12,13 +12,15 @@ ${nroasn}    0000163028
 
 *** Test Cases ***
 Recepcion_ASN
-    Open_RF
+    [Documentation]    Recepción asn
     Start Sikuli Process
+    Open_RF
     Login_RF    ${path}    moviedo    andreani2018
     Menu_Recepcion_ASN    ${path}    ${menuDep}    ${menuWms}    ${submenu}
-    Buscar_numero_ASN    ${path}    ${nroasn}       
+    Buscar_numero_ASN    ${path}    ${nroasn}
+    Stop Remote Server       
     Close_RF
-    Stop Remote Server
+    
     
 
 *** Keywords ***
