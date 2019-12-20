@@ -12,7 +12,7 @@ ${nroasn}    0000163028
 
 *** Test Cases ***
 Recepcion_ASN
-    [Documentation]    Recepción asn
+    [Documentation]    farmanet
     Start Sikuli Process
     Open_RF
     Login_RF    ${path}    moviedo    andreani2018
